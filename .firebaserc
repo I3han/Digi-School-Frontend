@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ecom-site-eb61b": {
+      "hosting": {
+        "ecom-site": [
+          "ecom-site-eb61b"
+        ]
+      }
+    }
+  }
+}
